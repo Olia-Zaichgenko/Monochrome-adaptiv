@@ -640,6 +640,7 @@ input[type='radio'] {
         margin: 40px auto;
         flex-wrap: wrap;
         justify-content: space-between;
+        padding-bottom: 0px;
     }
         .separations .separation{
             width: 46%;
